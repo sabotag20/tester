@@ -1,0 +1,3 @@
+newrsdf >> new.file
+ls
+echo newrsdf
